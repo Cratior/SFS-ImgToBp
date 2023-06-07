@@ -90,6 +90,7 @@ def process_image():
     with open(output_file, "w") as f:
         json.dump(blueprint, f, indent=4)
 
+    # Return the fuel tank count as part of the response
     return f"Modified blueprint saved to {output_file}<br>Total fuel tanks: {fuel_tank_count}"
 
 if __name__ == "__main__":
