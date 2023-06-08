@@ -28,10 +28,10 @@ Feel free to contribute to the project, report any issues, or suggest improvemen
 
 ## PLans
 
-1. colors
-  the fuel tanks will change color to match the pixel color
-2. Optimised fuel tanks
-  Use bigger fuel tanks instead of lots of smaller ones
+- colors
+--  the fuel tanks will change color to match the pixel color
+- Optimised fuel tanks
+--  Use bigger fuel tanks instead of lots of smaller ones
 
 ## Contributing
 
