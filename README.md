@@ -26,6 +26,13 @@ The current pre-release version of SFS-ImgToBp may generate blueprints with a la
 
 Feel free to contribute to the project, report any issues, or suggest improvements to enhance the functionality of SFS-ImgToBp!
 
+## PLans
+
+1. colors
+  the fuel tanks will change color to match the pixel color
+2. Optimised fuel tanks
+  Use bigger fuel tanks instead of lots of smaller ones
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please reach out to me on Discord at `cratior#7703`.
