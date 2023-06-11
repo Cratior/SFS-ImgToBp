@@ -1,0 +1,36 @@
+{
+  "center": 10.0,
+  "parts": [
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 0,
+        "y": 0
+      },
+      "o": {
+        "x": 520,
+        "y": 158,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 520,
+        "width_a": 520,
+        "width_b": 520,
+        "height": 158,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    }
+  ],
+  "stages": [],
+  "rotation": 0.0,
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "interiorView": true
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "n": "Rectangle 1",
+    "p": {
+      "x": 0,
+      "y": 0
+    },
+    "o": {
+      "x": 273,
+      "y": 121,
+      "z": 0.0
+    },
+    "t": "-Infinity",
+    "N": {
+      "width_original": 273,
+      "width_a": 273,
+      "width_b": 273,
+      "height": 121,
+      "fuel_percent": 1.0
+    },
+    "T": {
+      "color_tex": "_",
+      "shape_tex": "_"
+    }
+  }
+]
