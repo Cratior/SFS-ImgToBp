@@ -15,7 +15,7 @@ SFS-ImgToBp is a Python script that takes a PNG or JPG image as input and genera
 ⚠️ **Important** ⚠️
 - The input image should have a **white background**. It is recommended that the image is an outline of what you want to create.
 - Any colors can be used in the image except for white, as the script converts those colors to parts.
-- Currently, the script only uses one size fuel tank. I have attempted to fix this, but it's not working properly. I will add support for different fuel tank sizes in a future update.
+- Currently, the release script only uses one size fuel tank. The Beta script dose support for different fuel tank sizes.
 - If the input image is large, consider lowering its resolution or using the scale factor. The scale factor only reduces the size of the craft and doesn't affect the number of parts generated. I will try to update it so that it won't output thousands of fuel tanks.
 
 ## Using the Generated Blueprint as a Template
@@ -32,6 +32,9 @@ Feel free to contribute to the project, report any issues, or suggest improvemen
 --  the fuel tanks will change color to match the pixel color
 - Optimised fuel tanks
 --  Use bigger fuel tanks instead of lots of smaller ones
+
+##Beta Update: Improved Fuel Tank Scaling
+Introducing the new script! Unlike the old script, this version scales fuel tanks in designated areas, optimizing space utilization. It focuses on creating a basic craft outline, sacrificing some detail and speed for a significant reduction in part count by 15x.
 
 ## Contributing
 
